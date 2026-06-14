@@ -197,6 +197,6 @@ UI 업데이트
 
 ---
 
-## 📄 License
+## 유튜브 링크
 
-MIT License
+https://www.youtube.com/watch?v=XdpZ64XYWfM
